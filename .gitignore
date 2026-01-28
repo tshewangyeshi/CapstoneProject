@@ -1,0 +1,13 @@
+# Virtual environments
+edge_ai/
+venv/
+.env/
+
+# Model files
+*.pt
+*.onnx
+*.pth
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
